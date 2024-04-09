@@ -130,7 +130,7 @@
             "[resourceId('Microsoft.Web/sites', variables('appName'))]"
           ],
           "properties": {
-            "packageUri": "https://github.com/rcl-ssl/RCL.SSL.AutoRenewFunction/releases/download/v7.0.0/autorenew.zip"
+            "packageUri": "https://github.com/rcl-ssl/rcl-ssl-automatic-renewal/releases/download/V7.1.0/autorenew.zip"
           }
         }
       ]
